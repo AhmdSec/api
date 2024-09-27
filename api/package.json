@@ -1,0 +1,7 @@
+{
+  "name": "stremio-vlc-addon",
+  "version": "1.0.0",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.0.0"
+  }
+}
